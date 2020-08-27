@@ -1,1 +1,0 @@
-client = "mongodb+srv://cedarlakeadmin:adventist1844@cedarlakecluster.dxkoy.mongodb.net/Cedar_Lake?retryWrites=true&w=majority"
