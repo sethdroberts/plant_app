@@ -1,6 +1,6 @@
 import pymongo
 from pymongo import MongoClient
-import config as cfg
+import cfg
 
 cluster = MongoClient(cfg.client)
 
